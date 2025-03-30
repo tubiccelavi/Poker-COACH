@@ -115,3 +115,19 @@ To monitor the usage of the `GH_TOKEN`, follow these best practices:
 3. Set up notifications for any unusual activity or changes in the repository.
 4. Use third-party tools or services to monitor the usage of the `GH_TOKEN` and detect any potential security issues.
 5. Periodically review and update the permissions assigned to the `GH_TOKEN` to ensure they are still necessary and appropriate.
+
+## Manually Triggering Workflows
+
+You can manually trigger the following workflows using the `workflow_dispatch` event:
+
+- `create-puzzle-issue.yml`
+- `merge-repos.yml`
+- `merge-sourcery-ai-bot-pr.yml`
+- `submit-advent-of-code.yml`
+
+To manually trigger a workflow, follow these steps:
+
+1. Go to the "Actions" tab in your GitHub repository.
+2. Select the workflow you want to trigger from the list of workflows.
+3. Click the "Run workflow" button.
+4. Provide any required input parameters and click the "Run workflow" button again.
