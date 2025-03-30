@@ -3,6 +3,7 @@ name: Merge Repos
 on:
   repository_dispatch:
     types: [merge-repos]
+  workflow_dispatch:
 
 permissions:
   contents: write
