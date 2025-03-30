@@ -15,7 +15,6 @@ on:
         required: true
         type: number
         description: "The part of the puzzle (1 or 2)"
-  workflow_dispatch:
 
 permissions:
   issues: write
